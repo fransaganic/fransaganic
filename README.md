@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Stribor](https://github.com/VlasnikTvorniceOraha/Stribor.git)
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 I’m currently learning **Unreal Engine 5 and SideFx: Houdini**
 
 - 📫 How to reach me **saganicfran@gmail.com**
 
