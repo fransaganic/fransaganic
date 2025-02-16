@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saganicfran@gmail.com**
 
-- ⚡ Fun fact **I like doing origami and magic tricks 🪄**
+- ⚡ Fun fact **I like playing board games, doing origami and magic tricks 🪄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
